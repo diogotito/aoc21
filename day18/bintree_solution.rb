@@ -1,51 +1,63 @@
-# TODO mudar isto para um módulo a ser mixed-in em RegularNumber e Pair
-class SnailfishNumber
-    attr_accessor :parent
+module SnailfishNumber
+    attr_accessor :parent  # generates .parent getter and setter automatically
 
-    def initialize(parent = nil)
-        @parent = parent
-    end
-
-    def self.parse(line)
-        state = :begin
-        curr_tree = nil
-        line.each_char do |c|
-            case c
-            when '['
-                curr_tree = Pair.new(curr_tree)
-                curr_tree.parent.send :"#{state}=", curr_tree unless state == :begin
-                state = :left
-            when ','
-                state = :right
-            when '0'..'9'
-                branch = curr_tree.send(state)  # access the .left or .right branch
-                if branch.nil?
-                    curr_tree.send(:"#{state}=", RegularNumber.new(c.to_i, parent=curr_tree))
-                else
-                    branch.value = branch.value * 10 + c.to_i
+    class << self
+        def parse(line)
+            state = :begin
+            curr_tree = nil
+            line.each_char do |c|
+                case c
+                when '['
+                    curr_tree = Pair.new(parent=curr_tree)
+                    # Assign to either left or right branch of parent, if it exists
+                    curr_tree.parent&.send("#{state}=", curr_tree)
+                    state = :left
+                when ','
+                    state = :right
+                when '0'..'9'
+                    branch = curr_tree.send(state)  # curr_tree.left when state is :left
+                    if branch.nil?
+                        curr_tree.send(:"#{state}=", RegularNumber.new(c.to_i, parent=curr_tree))
+                    else
+                        branch.value = branch.value * 10 + c.to_i
+                    end
+                when ']'
+                    return curr_tree if curr_tree.root?
+                    curr_tree = curr_tree.parent
                 end
-            when ']'
-                return curr_tree if curr_tree.root?
-                curr_tree = curr_tree.parent
             end
         end
     end
 
+    #
+    # Methods that end in '?'
+    # =======================================================================
+    # Ruby's syntax allows method names to end with a '?'
+    # This is purely cosmetic. Rubyists like to name predicates like this
+    #
+
+    ##
+    # nil is an object too!
+    # (also, it's one of the only 2 false-y objects in Ruby: false and nil)
+    # We can ask any object if it's the nil object
     def root?
         @parent.nil?
     end
 
     def depth
-        (root?) ? 0
-                : 1 + parent.depth
+        if root? then
+            0
+        else
+            1 + parent.depth
+        end
     end
 
     def left_child?
-        not root? and @parent.left == self
+        @parent&.left == self
     end
 
     def right_child?
-        not root? and @parent.right == self
+        @parent&.right == self
     end
 
     def root
@@ -87,10 +99,7 @@ class SnailfishNumber
             in Integer
                 RegularNumber.new(value, parent=@parent)
             in [Integer => l, Integer => r]
-                p = Pair.new(@parent)
-                p.left = RegularNumber.new(l, parent=p)
-                p.right = RegularNumber.new(r, parent=p)
-                p
+                Pair.new(@parent, RegularNumber.new(l), RegularNumber.new(r))
             end
         @parent.left = value if left_child?
         @parent.right = value if right_child?
@@ -98,12 +107,13 @@ class SnailfishNumber
     end
 end
 
-class RegularNumber < SnailfishNumber
+class RegularNumber
+    include SnailfishNumber
     attr_accessor :value
     alias_method :magnitude, :value
 
     def initialize(value, parent=nil)
-        super(parent)
+        self.parent = parent
         @value = value
     end
 
@@ -120,33 +130,80 @@ class RegularNumber < SnailfishNumber
     end
 end
 
-class Pair < SnailfishNumber
-    attr_accessor :left, :right
+class Pair
+    include SnailfishNumber
+    attr_reader :left, :right  # renerates .left and .right getters automatically
 
+    #
+    # Methods that end in '='
+    # ============================================================================
+    # In Ruby, the assignment syntax on objets
+    #     obj.member = value
+    # is actually syntax suger to call a method with an '=' in its name!
+    #     obj.member=(value)
+    #
+    # For Pair, I want left= and right= to make the passed children aware of their
+    # new parent.
+    #
+
+    def left=(child)
+        @left = child
+        child&.parent = self
+    end
+
+    def right=(child)
+        @right = child
+        child&.parent = self
+    end
+
+    ##
+    # We change the instance variables indirectly by invoking setter methods through `self`
     def initialize(parent=nil, left=nil, right=nil)
-        super(parent)
-        @left = left
-        @right = right
+        self.parent = parent
+        self.left = left
+        self.right = right
     end
 
-    def inspect
-        "<#{@left.inspect || ?_}, #{@right.inspect || ?_}>"
-    end
-
-    def to_s
-        "[#@left,#@right]"
-    end
-
+    ##
+    # In Ruby the last expression is returned by default. No need to type `return`!
     def magnitude
         3 * @left.magnitude + 2 * @right.magnitude
     end
 
+    ##
+    # This addition is performed in-place!
+    # I don't think the += operator is overridable in Ruby
+    # Maybe I should have chosen << or call this method `add`
     def +(other)
         p = Pair.new(nil, self, other)
-        @parent = other.parent = p
+        self.parent = other.parent = p
         p.reduce!
     end
 
+    ##
+    # Called by `p` and `pp` to print a more detailed representation for debugging
+    def inspect
+        "<#{@left.inspect || ?_}, #{@right.inspect || ?_}>"
+    end
+
+    ##
+    # Called by `puts` and `print` to print a human readable representation
+    def to_s
+        "[#@left,#@right]"
+    end
+
+    #
+    # Traversal methods:
+    # ========================================================================
+    # When these methods are called with a block
+    #     do |val| ...code... end      or      { |val| ...code... }
+    # it will be called (via `yield` keyword) with each sucessive result.
+    # If a block isn't passed, an Enumerator will be returned, which provides
+    # convenient "itertools"-style methods over the yielded results 
+    #
+
+    ##
+    # Yields every RegularNumber from left to right in depth-first-search order
     def each_leaf(&block)
         return enum_for(__method__) unless block_given?
         [@left, @right].each do |branch|
@@ -159,6 +216,8 @@ class Pair < SnailfishNumber
         end
     end
 
+    ##
+    # Yields every Pair in depth-first-search order
     def each_left_right_rec(depth=0, &block)
         return enum_for(__method__) unless block_given?
         yield self, depth
@@ -324,7 +383,7 @@ puts "Answer for Part One:"
 
 puts File.foreach("input.txt", chomp: true)
          .map(&:to_sn)
-         .reduce(:+)
+         .reduce(:+).tap { |sn| puts sn }
          .magnitude
 
 puts "*  " * 30

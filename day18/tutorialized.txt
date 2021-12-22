@@ -1,0 +1,18 @@
+    # (whereas in Python 0, [], {}, set() are treated like False in an if,
+    #  in Ruby, we have to be more explicit about our intentions:
+    #      obj.nil?  [].empty?  {}.empty?  0.zero?)
+
+
+puts " ----------------- start #{sn.join}"
+    split_i = 1 + sn[1..].find_index { |token| (p case token
+                                                when '['; depth += 1
+                                                when ']'; depth -= 1
+                                                end) == 0
+    }
+    puts "end ----------------- "
+
+
+split_i = 1 + sn[1..].find_index { |token|
+        (case token when '['; depth += 1
+                    when ']'; depth -= 1 else depth end).zero?
+    }
