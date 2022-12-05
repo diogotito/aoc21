@@ -1,0 +1,7 @@
+{
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.terminal.executeInFileDir": true,
+    "python.pythonPath": "C:\\git\\aoc21\\leaderboard\\venv\\Scripts\\python.exe",
+    "jupyter.jupyterServerType": "local",
+    "code-runner.fileDirectoryAsCwd": true
+}

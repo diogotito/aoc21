@@ -1,0 +1,2 @@
+jq '.members | map({name, estrela: .completion_day_level | .})'
+12-00_18.json

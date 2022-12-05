@@ -1,4 +1,6 @@
-import Control.Monad (forM_)
+import System.Random
+import Data.List(foldl')
+import Control.Monad (forM_, replicateM)
 import Debug.Trace (trace)
 -- {-# LANGUAGE TupleSections #-}
 
@@ -54,7 +56,7 @@ eqlInstruction :: VariableName -> RightOperand -> ALUState -> ALUState
 eqlInstruction var rhs state = setVariable var (if getVariable var state == evalRightOperand rhs state then 1 else 0) state
 
 
--- IO
+-- Some parsing
 
 varName :: Char -> VariableName
 varName 'w' = W
@@ -80,13 +82,29 @@ evalInstruction ["eql", [variable], rhs] = eqlInstruction (varName variable) (ri
 evalInstruction wat = trace ("what is " ++ unwords wat) id
 
 
+runProgram :: [[String]] -> ALUState -> ALUState
+runProgram program initialState = foldl' (flip evalInstruction) initialState program
+
+
+initialStates :: [ALUState]
+initialStates = [(0, 0, 0, 0, num) | num <- modelNumbers]
+  where
+    modelNumbers = replicateM 14 [9, 8..1]
+
+
 main = do
+    let digitGen = getStdRandom (randomR (1, 9)) :: IO Int
+    let modelGen = replicateM 14 digitGen
+
+    modelNumber <- modelGen
+
+    let initialState' = (0, 0, 0, 0, modelNumber)
     program <- map words . lines <$> readFile "input.txt"
-    let transformation = foldr ((.) . evalInstruction) id program
-    let finalState = transformation initialState
+    let finalState = runProgram program initialState' 
 
     putStrLn "Initial state: "
-    print initialState
+    print initialState'
     putStrLn ""
     putStrLn "Final State:"
     print finalState
+    putStrLn ""

@@ -67,12 +67,23 @@ def magnitude(sn)
     3 * magnitude(left) + 2 * magnitude(right)
 end
 
+
+# --- Part One ---
+
 puts magnitude(File.foreach("input.txt")
                    .map(&method(:tokenize))
                    .reduce { |acc, input_line| reduce(add(acc, input_line)) })
+
+
+# --- Part Two ---
 
 puts File.readlines("input.txt")
          .map(&method(:tokenize))
          .repeated_permutation(2)
          .map { |a, b| magnitude(reduce(add(a, b))) }
          .max
+
+
+# Answers:
+# Part One: 4417
+# Part Two: 4796

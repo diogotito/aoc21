@@ -1,0 +1,2256 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"instr",
+				"instruction"
+			],
+			[
+				"instance",
+				"instance_variable_set"
+			],
+			[
+				"initi",
+				"initialState"
+			],
+			[
+				"ca",
+				"case"
+			],
+			[
+				"rig",
+				"right_index"
+			],
+			[
+				"cas",
+				"case"
+			],
+			[
+				"atr",
+				"attr_accessor"
+			],
+			[
+				"try",
+				"try_explode_once"
+			],
+			[
+				"eac",
+				"each_left_right_rec"
+			],
+			[
+				"Sa",
+				"SnailfishNumber"
+			],
+			[
+				"Snailf",
+				"SnailfishNumber"
+			],
+			[
+				"cla",
+				"cla"
+			],
+			[
+				"climb",
+				"climb_left"
+			],
+			[
+				"beg",
+				"begin"
+			],
+			[
+				"wh",
+				"when"
+			],
+			[
+				"cl",
+				"cl"
+			],
+			[
+				"curr",
+				"curr_node"
+			],
+			[
+				"insc",
+				"instance_variable_set"
+			],
+			[
+				"exh",
+				"exhaust_set"
+			],
+			[
+				"heigh",
+				"heightmap"
+			],
+			[
+				"len",
+				"from_lines"
+			],
+			[
+				"heig",
+				"heightmap_width"
+			],
+			[
+				"read",
+				"read_displays"
+			],
+			[
+				"segmen",
+				"segment_counts"
+			],
+			[
+				"most_comm",
+				"most_common_segment"
+			],
+			[
+				"hole",
+				"hole_9"
+			],
+			[
+				"hol",
+				"hole_9"
+			],
+			[
+				"len_",
+				"len_6_holes"
+			],
+			[
+				"crab",
+				"crab_x"
+			],
+			[
+				"do",
+				"dob"
+			],
+			[
+				"yi",
+				"yield_lol"
+			],
+			[
+				"ma",
+				"marked_T"
+			],
+			[
+				"winn",
+				"winning_number"
+			],
+			[
+				"winnn",
+				"winning_board"
+			],
+			[
+				"winnin",
+				"winning_number"
+			],
+			[
+				"mar",
+				"marked_T"
+			],
+			[
+				"path",
+				"open_path_command2"
+			],
+			[
+				"SLotT",
+				"SlotType.NOT_A_SLOT"
+			],
+			[
+				"print_",
+				"_print_debugging"
+			],
+			[
+				"canvas_t",
+				"canvas_item_create"
+			],
+			[
+				"_in",
+				"_init"
+			],
+			[
+				"texbf",
+				"\\textbf{text}                                     "
+			],
+			[
+				"batter",
+				"battery_vol_percent"
+			],
+			[
+				"CONK",
+				"CONKY_OVERLAY_CLASS"
+			],
+			[
+				"paragraph",
+				"\\paragraph{title}                                 "
+			],
+			[
+				"textwi",
+				"\\textwidth"
+			],
+			[
+				"figure",
+				"bfigure"
+			],
+			[
+				"fig",
+				"figure"
+			],
+			[
+				"cite",
+				"\\cite{keylist}                                    "
+			],
+			[
+				"verbat",
+				"\\begin{verbatim}                                  "
+			],
+			[
+				"sec",
+				"\\section*{title}                                  "
+			],
+			[
+				"A",
+				"tex/conteudo/A_explicacao_tecnica"
+			],
+			[
+				"conteu",
+				"conteudo.tex"
+			],
+			[
+				"B",
+				"Bibliografia"
+			],
+			[
+				"SPEED",
+				"STEERING_SPEED"
+			],
+			[
+				"SPRITE",
+				"SPRITE_SPEED"
+			],
+			[
+				"i_",
+				"in_y"
+			],
+			[
+				"speed",
+				"SPRITE_SPEED\tstatement"
+			],
+			[
+				"prox",
+				"prox.horizontal"
+			],
+			[
+				"THYMIO",
+				"THYMIO_SIZE"
+			],
+			[
+				"draw",
+				"draw\tfunction"
+			],
+			[
+				"dis",
+				"distance_squared_to\tfunction"
+			],
+			[
+				"circl",
+				"circle\tpygame(draw) "
+			],
+			[
+				"rect",
+				"rect\tpygame(draw) "
+			],
+			[
+				"horiz",
+				"horizontalProximity"
+			],
+			[
+				"line",
+				"line\tpygame(draw) "
+			],
+			[
+				"thy",
+				"thymio_sprite_exists\tfunction"
+			],
+			[
+				"Group",
+				"Group\tpygame(sprite) "
+			],
+			[
+				"Surface",
+				"Surface\tpygame(Surface) "
+			],
+			[
+				"breakpoi",
+				"breakpoint\tfunction"
+			],
+			[
+				"fill",
+				"fill\tpygame(Surface) "
+			],
+			[
+				"fnr",
+				"firstNotRepeatingCharacter"
+			],
+			[
+				"usepac",
+				"\\usepackage"
+			],
+			[
+				"end",
+				"\\end{}                                            \tlatex-document"
+			],
+			[
+				"href",
+				"\\href{URL}{text}                                  \thyperref"
+			],
+			[
+				"vspace",
+				"\\vspace{length}                                   \tlatex-document"
+			],
+			[
+				"abstract",
+				"\\begin{abstract}                                  \tlatex-document"
+			],
+			[
+				"use",
+				"\\usepackage{package}                              \tlatex-document"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/diogotito/.gitconfig",
+			"settings":
+			{
+				"buffer_size": 420,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					2,
+					1,
+					"insert",
+					{
+						"characters": "jjjj"
+					},
+					"BAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAA",
+					"CQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					6,
+					4,
+					"left_delete",
+					null,
+					"BAAAAAMAAAAAAAAAAwAAAAAAAAABAAAAagIAAAAAAAAAAgAAAAAAAAABAAAAagEAAAAAAAAAAQAAAAAAAAABAAAAagAAAAAAAAAAAAAAAAAAAAABAAAAag",
+					"CQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					1,
+					1,
+					"revert",
+					null,
+					"BwAAAAAAAAAAAAAAAAAAAAAAAACkAQAAW3VzZXJdCgluYW1lID0gZGlvZ290aXRvCgllbWFpbCA9IGRpb2dvdGl0b21hcnF1ZXNAZ21haWwuY29tCltmaWx0ZXIgImxmcyJdCgljbGVhbiA9IGdpdC1sZnMgY2xlYW4gLS0gJWYKCXNtdWRnZSA9IGdpdC1sZnMgc211ZGdlIC0tICVmCglwcm9jZXNzID0gZ2l0LWxmcyBmaWx0ZXItcHJvY2VzcwoJcmVxdWlyZWQgPSB0cnVlCltndWldCglyZWNlbnRyZXBvID0gQzovZ2l0L3RoZS1sYXZhLWlzLWZsb29yLWphbS1zdWJtaXNzaW9uCltpbml0XQoJZGVmYXVsdEJyYW5jaCA9IG1hc3RlcgpbYWxpYXNdCiAgICBzID0gc3RhdHVzIC0tc2hvcnQKICAgIGxnYSA9IGxvZyAtLW9uZWxpbmUgLS1hbGwgLS1ncmFwaCAtLWRlY29yYXRlCiAgICBjbCA9IGNsZWFuIC1uZHgKW2NvcmVdCiAgICBhdXRvY3JsZiA9IGZhbHNlCiAgICBlb2wgPSBsZgoKAAAAAAAAAACkAQAAAAAAAAAAAAAAAAAAAAAAAKQBAAAAAAAAAAAAAAAAAAAAAAAApAEAAAAAAAAAAAAAAAAAAAAAAACkAQAAAAAAAAAAAAAAAAAAAAAAAKQBAAAAAAAAAAAAAAAAAAAAAAAApAEAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKoAAAAAAAAAqgAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"file": "/C/tools/Defold/keymap.edn",
+			"settings":
+			{
+				"buffer_size": 2837,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAApwoAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAFkAAAAAAAAAWgAAAAAAAAAAAAAAWgAAAAAAAABbAAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAFkAAAAAAAAAWQAAAAAAAAD////////vfw"
+				],
+				[
+					61,
+					1,
+					"paste",
+					null,
+					"AQAAAFsAAAAAAAAAcwAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAFsAAAAAAAAAWwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					63,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFsAAAAAAAAAWwAAAAAAAAABAAAAIA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAAyQA"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": "Shift+"
+					},
+					"BgAAAGIAAAAAAAAAYwAAAAAAAAAAAAAAYwAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGUAAAAAAAAAAAAAAGUAAAAAAAAAZgAAAAAAAAAAAAAAZgAAAAAAAABnAAAAAAAAAAAAAABnAAAAAAAAAGgAAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGIAAAAAAAAAYgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": "K"
+					},
+					"AgAAAGgAAAAAAAAAaQAAAAAAAAAAAAAAaQAAAAAAAABpAAAAAAAAAAEAAABE",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGgAAAAAAAAAaQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					82,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADkAAAAAAAAAOQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					83,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAADsAAAAAAAAAPQAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADsAAAAAAAAAOwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					84,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAADwAAAAAAAAAPgAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					85,
+					1,
+					"insert",
+					{
+						"characters": "Alt+Shift"
+					},
+					"CQAAAD0AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQQAAAAAAAAAAAAAAQQAAAAAAAABCAAAAAAAAAAAAAABCAAAAAAAAAEMAAAAAAAAAAAAAAEMAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABFAAAAAAAAAAAAAABFAAAAAAAAAEYAAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD0AAAAAAAAAPQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					86,
+					1,
+					"insert",
+					{
+						"characters": "+"
+					},
+					"AQAAAEYAAAAAAAAARwAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEYAAAAAAAAARgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					87,
+					1,
+					"insert",
+					{
+						"characters": "Home"
+					},
+					"BAAAAEcAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABJAAAAAAAAAAAAAABJAAAAAAAAAEoAAAAAAAAAAAAAAEoAAAAAAAAASwAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEcAAAAAAAAARwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					89,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAEwAAAAAAAAATQAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					90,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAE0AAAAAAAAATgAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAE0AAAAAAAAATQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					91,
+					2,
+					"left_delete",
+					null,
+					"AgAAAE0AAAAAAAAATQAAAAAAAAABAAAAIEwAAAAAAAAATAAAAAAAAAABAAAAOg",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAE4AAAAAAAAATgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					92,
+					1,
+					"insert",
+					{
+						"characters": " :"
+					},
+					"AgAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABOAAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					105,
+					1,
+					"left_delete",
+					null,
+					"AQAAAE0AAAAAAAAATQAAAAAAAAABAAAAOg",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAE4AAAAAAAAATgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					106,
+					1,
+					"paste",
+					null,
+					"AQAAAE0AAAAAAAAAZgAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAE0AAAAAAAAATQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					125,
+					5,
+					"right_delete",
+					null,
+					"BQAAAIsAAAAAAAAAiwAAAAAAAAABAAAAQ4sAAAAAAAAAiwAAAAAAAAABAAAAdIsAAAAAAAAAiwAAAAAAAAABAAAAcosAAAAAAAAAiwAAAAAAAAABAAAAbIsAAAAAAAAAiwAAAAAAAAABAAAAKw",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIsAAAAAAAAAiwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					127,
+					1,
+					"insert",
+					{
+						"characters": "+Ctrl"
+					},
+					"BQAAAJAAAAAAAAAAkQAAAAAAAAAAAAAAkQAAAAAAAACSAAAAAAAAAAAAAACSAAAAAAAAAJMAAAAAAAAAAAAAAJMAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACVAAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJAAAAAAAAAAkAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					133,
+					1,
+					"sort_lines",
+					{
+						"case_sensitive": false
+					},
+					"AQAAAAwAAAAAAAAA4AoAAAAAAADUCgAAIFsiQWx0K0Rvd24iIDptb3ZlLWRvd25dCiBbIkFsdCtVcCIgOm1vdmUtdXBdCiBbIkFsdCtTaGlmdCtIb21lIiA6c2VsZWN0LWJlZ2lubmluZy1vZi1saW5lXQogWyJCYWNrc3BhY2UiIDpkZWxldGUtYmFja3dhcmRdCiBbIlNoaWZ0K0N0cmwrSyIgOmRlbGV0ZS1saW5lXQogWyJDdHJsKycrJyIgOnpvb20taW5dCiBbIkN0cmwrJy0nIiA6em9vbS1vdXRdCiBbIkN0cmwrQSIgOnNlbGVjdC1hbGxdCiBbIkN0cmwrQiIgOmJ1aWxkXQogWyJDdHJsK0JhY2tzcGFjZSIgOmRlbGV0ZS1wcmV2LXdvcmRdCiBbIkN0cmwrQyIgOmNvcHldCiBbIkN0cmwrQ29tbWEiIDpwcmVmZXJlbmNlc10KIFsiQ3RybCtEIiA6c2VsZWN0LW5leHQtb2NjdXJyZW5jZV0KIFsiQ3RybCtEZWxldGUiIDpkZWxldGUtbmV4dC13b3JkXQogWyJDdHJsK0UiIDpoaWRlLXNlbGVjdGVkXQogWyJDdHJsK0VuZCIgOmVuZC1vZi1maWxlXQogWyJDdHJsK0YiIDpmaWx0ZXItZm9ybV0KIFsiQ3RybCtGIiA6ZmluZC10ZXh0XQogWyJDdHJsK0ciIDpmaW5kLW5leHRdCiBbIkN0cmwrSCIgOnJlcGxhY2UtdGV4dF0KIFsiQ3RybCtIIiA6dG9nZ2xlLWNvbXBvbmVudC1ndWlkZXNdCiBbIkN0cmwrSG9tZSIgOmJlZ2lubmluZy1vZi1maWxlXQogWyJDdHJsK0kiIDpyZWluZGVudF0KIFsiQ3RybCtLIiA6ZGVsZXRlLXRvLWVuZC1vZi1saW5lXQogWyJDdHJsK0wiIDpnb3RvLWxpbmVdCiBbIkN0cmwrTGVmdCIgOnByZXYtd29yZF0KIFsiQ3RybCtOIiA6bmV3LWZpbGVdCiBbIkN0cmwrTyIgOm9wZW5dCiBbIkN0cmwrUCIgOm9wZW4tYXNzZXRdCiBbIkN0cmwrUSIgOnF1aXRdCiBbIkN0cmwrUiIgOmhvdC1yZWxvYWRdCiBbIkN0cmwrUmlnaHQiIDpuZXh0LXdvcmRdCiBbIkN0cmwrUyIgOnNhdmUtYWxsXQogWyJDdHJsK1NsYXNoIiA6dG9nZ2xlLWNvbW1lbnRdCiBbIkN0cmwrU3BhY2UiIDpwcm9wb3NhbHNdCiBbIkN0cmwrVCIgOnNjZW5lLXN0b3BdCiBbIkN0cmwrVSIgOnJlYnVuZGxlXQogWyJDdHJsK1YiIDpwYXN0ZV0KIFsiQ3RybCtXIiA6Y2xvc2VdCiBbIkN0cmwrWCIgOmN1dF0KIFsiQ3RybCtaIiA6dW5kb10KIFsiRGVsZXRlIiA6ZGVsZXRlXQogWyJEb3duIiA6ZG93bl0KIFsiRSIgOnJvdGF0ZS10b29sXQogWyJFbmQiIDplbmQtb2YtbGluZV0KIFsiRW50ZXIiIDplbnRlcl0KIFsiRXNjIiA6ZXNjYXBlXQogWyJGIiA6ZnJhbWUtc2VsZWN0aW9uXQogWyJGMSIgOmRvY3VtZW50YXRpb25dCiBbIkYxMCIgOnN0ZXAtb3Zlcl0KIFsiRjExIiA6c3RlcC1pbnRvXQogWyJGMiIgOnJlbmFtZV0KIFsiRjUiIDpzdGFydC1kZWJ1Z2dlcl0KIFsiRjUiIDpjb250aW51ZV0KIFsiRjYiIDp0b2dnbGUtcGFuZS1sZWZ0XQogWyJGNyIgOnRvZ2dsZS1wYW5lLWJvdHRvbV0KIFsiRjgiIDp0b2dnbGUtcGFuZS1yaWdodF0KIFsiRjkiIDp0b2dnbGUtYnJlYWtwb2ludF0KIFsiSG9tZSIgOmJlZ2lubmluZy1vZi1saW5lLXRleHRdCiBbIkxlZnQiIDpsZWZ0XQogWyJQYWdlIERvd24iIDpwYWdlLWRvd25dCiBbIlBhZ2UgVXAiIDpwYWdlLXVwXQogWyJQZXJpb2QiIDpyZWFsaWduLWNhbWVyYV0KIFsiUiIgOnNjYWxlLXRvb2xdCiBbIlJpZ2h0IiA6cmlnaHRdCiBbIlNoaWZ0K0EiIDphZGQtc2Vjb25kYXJ5XQogWyJTaGlmdCtCYWNrc3BhY2UiIDpkZWxldGUtYmFja3dhcmRdCiBbIlNoaWZ0K0N0cmwrQiIgOnJlYnVpbGRdCiBbIlNoaWZ0K0N0cmwrRGVsZXRlIiA6ZGVsZXRlLXRvLWVuZC1vZi1saW5lXQogWyJTaGlmdCtDdHJsK0UiIDpzaG93LWxhc3QtaGlkZGVuXQogWyJTaGlmdCtDdHJsK0VuZCIgOnNlbGVjdC1lbmQtb2YtZmlsZV0KIFsiU2hpZnQrQ3RybCtGIiA6c2VhcmNoLWluLWZpbGVzXQogWyJTaGlmdCtDdHJsK0ciIDpmaW5kLXByZXZdCiBbIlNoaWZ0K0N0cmwrSCIgOnJlcGxhY2UtbmV4dF0KIFsiU2hpZnQrQ3RybCtIb21lIiA6c2VsZWN0LWJlZ2lubmluZy1vZi1maWxlXQogWyJTaGlmdCtDdHJsK0kiIDp0b2dnbGUtdmlzaWJpbGl0eS1maWx0ZXJzXQogWyJTaGlmdCtDdHJsK0wiIDpzcGxpdC1zZWxlY3Rpb24taW50by1saW5lc10KIFsiU2hpZnQrQ3RybCtMZWZ0IiA6c2VsZWN0LXByZXYtd29yZF0KIFsiU2hpZnQrQ3RybCtSIiA6b3Blbi1hc3NldF0KIFsiU2hpZnQrQ3RybCtSaWdodCIgOnNlbGVjdC1uZXh0LXdvcmRdCiBbIlNoaWZ0K0N0cmwrVyIgOmNsb3NlLWFsbF0KIFsiU2hpZnQrQ3RybCtaIiA6cmVkb10KIFsiU2hpZnQrRG93biIgOmRvd24tbWFqb3JdCiBbIlNoaWZ0K0Rvd24iIDpzZWxlY3QtZG93bl0KIFsiU2hpZnQrRSIgOmVyYXNlLXRvb2xdCiBbIlNoaWZ0K0VuZCIgOnNlbGVjdC1lbmQtb2YtbGluZV0KIFsiU2hpZnQrRjExIiA6c3RlcC1vdXRdCiBbIlNoaWZ0K0Y1IiA6c3RvcC1kZWJ1Z2dlcl0KIFsiU2hpZnQrSG9tZSIgOnNlbGVjdC1iZWdpbm5pbmctb2YtbGluZS10ZXh0XQogWyJTaGlmdCtMZWZ0IiA6bGVmdC1tYWpvcl0KIFsiU2hpZnQrTGVmdCIgOnNlbGVjdC1sZWZ0XQogWyJTaGlmdCtQYWdlIERvd24iIDpzZWxlY3QtcGFnZS1kb3duXQogWyJTaGlmdCtQYWdlIFVwIiA6c2VsZWN0LXBhZ2UtdXBdCiBbIlNoaWZ0K1JpZ2h0IiA6cmlnaHQtbWFqb3JdCiBbIlNoaWZ0K1JpZ2h0IiA6c2VsZWN0LXJpZ2h0XQogWyJTaGlmdCtUYWIiIDpiYWNrd2FyZHMtdGFiLXRyaWdnZXJdCiBbIlNoaWZ0K1VwIiA6c2VsZWN0LXVwXQogWyJTaGlmdCtVcCIgOnVwLW1ham9yXQogWyJTcGFjZSIgOnNjZW5lLXBsYXldCiBbIlNwYWNlIiA6c2hvdy1wYWxldHRlXQogWyJUYWIiIDp0YWJdCiBbIlVwIiA6dXBd",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAA0AAAAAAAAA1QoAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					170,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAMB4QA"
+				],
+				[
+					171,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAACYAAAAAAAAAKAAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACYAAAAAAAAAJgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					174,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAACcAAAAAAAAAKQAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACcAAAAAAAAAJwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					175,
+					1,
+					"insert",
+					{
+						"characters": "Alt="
+					},
+					"BAAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAACsAAAAAAAAALAAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					176,
+					1,
+					"left_delete",
+					null,
+					"AQAAACsAAAAAAAAAKwAAAAAAAAABAAAAPQ",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACwAAAAAAAAALAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					177,
+					1,
+					"insert",
+					{
+						"characters": "+Home"
+					},
+					"BQAAACsAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAtAAAAAAAAAAAAAAAtAAAAAAAAAC4AAAAAAAAAAAAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACsAAAAAAAAAKwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					179,
+					1,
+					"insert",
+					{
+						"characters": " :beg"
+					},
+					"BQAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADEAAAAAAAAAMQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					180,
+					1,
+					"insert",
+					{
+						"characters": "inning-of-lin"
+					},
+					"DQAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADkAAAAAAAAAAAAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD8AAAAAAAAAAAAAAD8AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABBAAAAAAAAAAAAAABBAAAAAAAAAEIAAAAAAAAAAAAAAEIAAAAAAAAAQwAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADYAAAAAAAAANgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					181,
+					1,
+					"insert",
+					{
+						"characters": "e"
+					},
+					"AQAAAEMAAAAAAAAARAAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEMAAAAAAAAAQwAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"file": "/C/Program Files (x86)/Steam/steamapps/common/TrackMania Nations Forever/Nadeo.ini",
+			"settings":
+			{
+				"buffer_size": 262,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAMkAAAAAAAAAygAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1QAAAAAAAADVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"duplicate_line",
+					null,
+					"AQAAANcAAAAAAAAA5QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1gAAAAAAAADWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					9,
+					"swap_line_up",
+					null,
+					"EgAAANcAAAAAAAAA1wAAAAAAAAAOAAAAO0Rpc3Rybz1NT0xVWArJAAAAAAAAANcAAAAAAAAAAAAAAMkAAAAAAAAAyQAAAAAAAAAOAAAAO0Rpc3Rybz1NT0xVWAq8AAAAAAAAAMoAAAAAAAAAAAAAALwAAAAAAAAAvAAAAAAAAAAOAAAAO0Rpc3Rybz1NT0xVWAqmAAAAAAAAALQAAAAAAAAAAAAAAKYAAAAAAAAApgAAAAAAAAAOAAAAO0Rpc3Rybz1NT0xVWAp/AAAAAAAAAI0AAAAAAAAAAAAAAH8AAAAAAAAAfwAAAAAAAAAOAAAAO0Rpc3Rybz1NT0xVWApvAAAAAAAAAH0AAAAAAAAAAAAAAG8AAAAAAAAAbwAAAAAAAAAOAAAAO0Rpc3Rybz1NT0xVWApjAAAAAAAAAHEAAAAAAAAAAAAAAGMAAAAAAAAAYwAAAAAAAAAOAAAAO0Rpc3Rybz1NT0xVWApiAAAAAAAAAHAAAAAAAAAAAAAAAGIAAAAAAAAAYgAAAAAAAAAOAAAAO0Rpc3Rybz1NT0xVWAokAAAAAAAAADIAAAAAAAAAAAAAACQAAAAAAAAAJAAAAAAAAAAOAAAAO0Rpc3Rybz1NT0xVWAoYAAAAAAAAACYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5AAAAAAAAADkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					2,
+					"swap_line_down",
+					null,
+					"BAAAADIAAAAAAAAAQAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAA4AAAA7RGlzdHJvPU1PTFVYCnAAAAAAAAAAfgAAAAAAAAAAAAAAJAAAAAAAAAAkAAAAAAAAAA4AAAA7RGlzdHJvPU1PTFVYCg",
+					"AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAANcAAAAAAAAA1wAAAAAAAAABAAAAOw",
+					"AQAAAAAAAAABAAAA5AAAAAAAAADkAAAAAAAAAAAAAAAAgFxA"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "ILIN"
+					},
+					"BQAAAN8AAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADgAAAAAAAAAAQAAABPTFVY4AAAAAAAAADhAAAAAAAAAAAAAADhAAAAAAAAAOIAAAAAAAAAAAAAAOIAAAAAAAAA4wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4wAAAAAAAADfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAAYBAAAAAAAABwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABgEAAAAAAAAGAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAYBAAAAAAAABgEAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAABwEAAAAAAAAHAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/C/Users/diogotito/AppData/LocalLow/Analgesic Productions LLC/Anodyne 2/.git/config",
+			"settings":
+			{
+				"buffer_size": 252,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"revert",
+					null,
+					"BAAAAAAAAAAAAAAAAAAAAAAAAAC/AAAAW2NvcmVdCglyZXBvc2l0b3J5Zm9ybWF0dmVyc2lvbiA9IDAKCWZpbGVtb2RlID0gZmFsc2UKCWJhcmUgPSBmYWxzZQoJbG9nYWxscmVmdXBkYXRlcyA9IHRydWUKCWlnbm9yZWNhc2UgPSB0cnVlClticmFuY2ggIm1hc3RlciJdCglyZW1vdGUgPSBvc21jOlN5bmMvc2F2ZXMvYW5vZHluZQoJbWVyZ2UgPSByZWZzL2hlYWRzL21hc3RlcgoAAAAAAAAAAPwAAAAAAAAAAAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJkAAAAAAAAAmQAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"contents": "*Psst \u0014 looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*\n\n*Looking for a shareable component template instead? You can [use SvelteKit for that as well](https://kit.svelte.dev/docs#packaging) or the older [sveltejs/component-template](https://github.com/sveltejs/component-template)*\n\n---\n\n# svelte app\n\nThis is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.\n\nTo create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):\n\n```bash\nnpx degit sveltejs/template svelte-app\ncd svelte-app\n```\n\n*Note that you will need to have [Node.js](https://nodejs.org) installed.*\n\n\n## Get started\n\nInstall the dependencies...\n\n```bash\ncd svelte-app\nnpm install\n```\n\n...then start [Rollup](https://rollupjs.org):\n\n```bash\nnpm run dev\n```\n\nNavigate to [localhost:8080](http://localhost:8080). You should see your app running. Edit a component file in `src`, save it, and reload the page to see your changes.\n\nBy default, the server will only respond to requests from localhost. To allow connections from other computers, edit the `sirv` commands in package.json to include the option `--host 0.0.0.0`.\n\nIf you're using [Visual Studio Code](https://code.visualstudio.com/) we recommend installing the official extension [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode). If you are using other editors you may need to install a plugin in order to get syntax highlighting and intellisense.\n\n## Building and running in production mode\n\nTo create an optimised version of the app:\n\n```bash\nnpm run build\n```\n\nYou can run the newly built app with `npm run start`. This uses [sirv](https://github.com/lukeed/sirv), which is included in your package.json's `dependencies` so that the app will work when you deploy to platforms like [Heroku](https://heroku.com).\n\n\n## Single-page app mode\n\nBy default, sirv will only respond to requests that match files in `public`. This is to maximise compatibility with static fileservers, allowing you to deploy your app anywhere.\n\nIf you're building a single-page app (SPA) with multiple routes, sirv needs to be able to respond to requests for *any* path. You can make it so by editing the `\"start\"` command in package.json:\n\n```js\n\"start\": \"sirv public --single\"\n```\n\n## Using TypeScript\n\nThis template comes with a script to set up a TypeScript development environment, you can run it immediately after cloning the template with:\n\n```bash\nnode scripts/setupTypeScript.js\n```\n\nOr remove the script via:\n\n```bash\nrm scripts/setupTypeScript.js\n```\n\nIf you want to use `baseUrl` or `path` aliases within your `tsconfig`, you need to set up `@rollup/plugin-alias` to tell Rollup to resolve the aliases. For more info, see [this StackOverflow question](https://stackoverflow.com/questions/63427935/setup-tsconfig-path-in-svelte).\n\n## Deploying to the web\n\n### With [Vercel](https://vercel.com)\n\nInstall `vercel` if you haven't already:\n\n```bash\nnpm install -g vercel\n```\n\nThen, from within your project folder:\n\n```bash\ncd public\nvercel deploy --name my-project\n```\n\n### With [surge](https://surge.sh/)\n\nInstall `surge` if you haven't already:\n\n```bash\nnpm install -g surge\n```\n\nThen, from within your project folder:\n\n```bash\nnpm run build\nsurge public my-project.surge.sh\n```\n",
+			"file": "/C/Users/diogotito/AppData/Local/Temp/7zOC39C839B/README.md",
+			"file_size": 3512,
+			"file_write_time": 132883116501738969,
+			"settings":
+			{
+				"buffer_size": 3512,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Haskell/Haskell.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Haskell/Haskell.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Haskell/Haskell.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Ruby/Ruby.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Ruby/Ruby.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"uiselec",
+				"UI: Select Theme"
+			],
+			[
+				"gruvbox",
+				"gruvbox: Select Theme"
+			],
+			[
+				"selec",
+				"gruvbox: Select Theme"
+			],
+			[
+				"colors",
+				"UI: Select Color Scheme"
+			],
+			[
+				"sortlines",
+				"Sort Lines"
+			],
+			[
+				"minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"fr",
+				"File: Revert"
+			],
+			[
+				"sslua",
+				"Set Syntax: Lua"
+			],
+			[
+				"rever",
+				"File: Revert"
+			],
+			[
+				"revert",
+				"History: Revert Modification"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				":",
+				":$ - EOF"
+			],
+			[
+				"duplica",
+				"File Manager: Duplicate"
+			],
+			[
+				"duplic",
+				"File Manager: Duplicate"
+			],
+			[
+				"move",
+				"File Manager: Move"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"selcos",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colorsch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"newview",
+				"File: New View into File"
+			],
+			[
+				"slcsheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"package",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"preferences",
+				"Preferences: Settings"
+			],
+			[
+				"packageresource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"selecttheme",
+				"UI: Select Theme"
+			],
+			[
+				"theme",
+				"UI: Customize Theme"
+			],
+			[
+				"black",
+				"python-black: Format the selected code or the code of the entire file"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"duplicate",
+				"File Manager: Duplicate"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"dupli",
+				"File Manager: Duplicate"
+			],
+			[
+				"newfile",
+				"File Manager: New File"
+			],
+			[
+				"colrosch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"dupl",
+				"File Manager: Duplicate"
+			],
+			[
+				"ssmark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"colorscheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"scschee",
+				"UI: Select Color Scheme"
+			],
+			[
+				"scolsch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"uiscs",
+				"UI: Select Color Scheme"
+			],
+			[
+				"uicols",
+				"UI: Select Color Scheme"
+			],
+			[
+				"uicolors",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"uicol",
+				"UI: Select Color Scheme"
+			],
+			[
+				"uicolor",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colrosc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"repl",
+				"SublimeREPL: Restart REPL"
+			],
+			[
+				"du",
+				"File Manager: Duplicate"
+			],
+			[
+				"reverse",
+				"Permute Lines: Reverse"
+			],
+			[
+				"uithe",
+				"UI: Select Theme"
+			],
+			[
+				"uitheme",
+				"UI: Customize Theme"
+			],
+			[
+				"colorsc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"open resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"split",
+				"File: Split View"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssviml",
+				"Set Syntax: VimL"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"set sytnax: git conf",
+				"Set Syntax: Git Config"
+			],
+			[
+				"prefere",
+				"Preferences: Settings"
+			],
+			[
+				"uiselectcolsch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"selcs",
+				"UI: Select Color Scheme"
+			],
+			[
+				"paraag",
+				"Selection: Expand to Paragraph"
+			],
+			[
+				"godot",
+				"Set Syntax: GDScript (Godot Engine)"
+			],
+			[
+				"sstxt",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ssmd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"openfile",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"terminal",
+				"File Manager: Open Terminal"
+			],
+			[
+				"openfil",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"mouse",
+				"LaTeXYZ: Install Jump to Pdf Mousebinding"
+			],
+			[
+				"latextools: user",
+				"LaTeXTools: Create mousemap in user folder"
+			],
+			[
+				"uisecs",
+				"UI: Select Color Scheme"
+			],
+			[
+				"uiscos",
+				"UI: Select Color Scheme"
+			],
+			[
+				"uislee",
+				"UI: Select Theme"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"uist",
+				"UI: Select Theme"
+			],
+			[
+				"package control: disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"disabel",
+				"Package Control: Disable Package"
+			],
+			[
+				"uithtme",
+				"UI: Select Theme"
+			],
+			[
+				"uiselethe",
+				"UI: Select Theme"
+			],
+			[
+				"uiselectcoc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui: select colro",
+				"UI: Select Color Scheme"
+			],
+			[
+				"uiselecttheme",
+				"UI: Select Theme"
+			],
+			[
+				"latextools: ",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"uiselcol",
+				"UI: Select Color Scheme"
+			],
+			[
+				"uisele",
+				"UI: Select Theme"
+			],
+			[
+				"languagetool",
+				"LanguageTool: Clear Problems"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				":e",
+				":e - Revert"
+			],
+			[
+				"reverthun",
+				"History: Revert Hunk"
+			],
+			[
+				"revertmodifi",
+				"History: Revert Modification"
+			],
+			[
+				"languagetool: ",
+				"LanguageTool: Deactivate Rule"
+			],
+			[
+				"localser",
+				"LanguageTool: Start Local Server"
+			],
+			[
+				"uiseleccolc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"uiselect",
+				"UI: Select Theme"
+			],
+			[
+				"etp",
+				"Selection: Expand to Paragraph"
+			],
+			[
+				"packenab",
+				"Package Control: Enable Package"
+			],
+			[
+				"pakcagedisable",
+				"Package Control: Disable Package"
+			],
+			[
+				"FIle Manager:",
+				"File Manager: New File"
+			],
+			[
+				"toggleopenfil",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"packdisa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ayuac",
+				"ayu: Activate theme"
+			],
+			[
+				":$",
+				":$ - EOF"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"uisle",
+				"UI: Select Color Scheme"
+			],
+			[
+				"latexclear",
+				"LaTeXTools: Clear document cache"
+			],
+			[
+				"terminaldefault",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"keybindings",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"uiselth",
+				"UI: Select Theme"
+			],
+			[
+				":keybidn",
+				"Preferences: Key Bindings"
+			],
+			[
+				"toggleopen",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"latexyz",
+				"LaTeXYZ: Install BracketHighlighter Settings"
+			],
+			[
+				"jump",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"removepackage",
+				"Package Control: Remove Package"
+			],
+			[
+				"ui: select color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"uithee",
+				"UI: Select Theme"
+			],
+			[
+				"view",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"latexmouse",
+				"Preferences: LaTeXYZ Mouse Bindings"
+			],
+			[
+				"jump to pdf",
+				"LaTeXYZ: Install Jump to Pdf Mousebinding"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+			"1+2",
+			"1",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/git/aoc21",
+		"/C/git/aoc21/day24"
+	],
+	"file_history":
+	[
+		"/C/Users/diogotito/AppData/Local/Temp/keymap_macos.edn",
+		"/C/Program Files (x86)/GIGABYTE/RGBFusion/AtiTool/readme.txt",
+		"/C/tools/RGBFusionTool/README.md",
+		"/D/Backups/LGS/.git/COMMIT_EDITMSG",
+		"/C/Users/diogotito/Desktop/wip.txt",
+		"/C/tools/SynfigStudio/synfigstudio.bat",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO0B046D71/whatareyousyncingabout.nfo",
+		"/D/tralha/defold/Tutorial 3 - Drag and Drop - for real/.git/COMMIT_EDITMSG",
+		"/C/Users/diogotito/AppData/Local/Temp/keymap_win.edn",
+		"/C/git/aoc21/day24/input.txt",
+		"/C/git/aoc21/day24/part1.hs",
+		"/D/todo/zimwiki/dev/SOs/Windows/CMD.txt",
+		"/C/git/aoc21/day24/part1.rb",
+		"/D/todo/zimwiki-export-2/dev/GameDev/Godot/GDScript.md",
+		"/C/Users/diogotito/AppData/Roaming/.emacs.d/init.el",
+		"/C/Users/diogotito/AppData/Roaming/zim/config/zim/symbols.list",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO03BBC0B6/game.project",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO03B28526/main.collection",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO03B29909/assets.atlas",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO03BFF309/assets.atlas",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO03B44AD8/game.input_binding",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO03B500D8/game.input_binding",
+		"/C/Users/diogotito/AppData/Local/Temp/7zOC5FBC0C9/cursor.script",
+		"/D/todo/zimwiki/dev/pl/lua/CenasQueIteram.txt",
+		"/D/todo/zimwiki/dev/pl/lua.txt",
+		"/C/ProgramData/chocolatey/lib/zerobrane-studio.install/tools/src/main.lua",
+		"/C/Users/diogotito/AppData/Local/Temp/7zOC5F12F6C/spawnPlanets.script",
+		"/C/Users/diogotito/AppData/Local/Temp/7zOC5F3248E/main.collection",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO03B52C09/assets.atlas",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO03B38EAD/game.project",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO03B98309/assets.atlas",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO03BFCEF8/assets.atlas",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO03B76016/planetGOPrototype.go",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO03B35D06/assets.atlas",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO03B4CA69/assets.atlas",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO03BADA79/main.collection",
+		"/C/Users/diogotito/AppData/Local/Logitech/Logitech Gaming Software/profiles/{8138098B-2527-420A-A13B-4FB7BBA7D443}.xml",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO03BF5AF9/planetGOPrototype.go",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO03B303F9/main.collection",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO03B4605E/game.input_binding",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO03BED85C/planet.png",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO83D077AD/spacemacs.mk",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO83D1954D/README.md",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO83D6313D/README.md",
+		"/C/Users/diogotito/AppData/Local/Temp/7zO83D5460C/zemacs.el",
+		"/D/todo/zimwiki/dev/GameDev/Defold.txt",
+		"/D/todo/zimwiki/dev/pl/lua/vanity/Signal_Bars.txt",
+		"/C/tools/openresty-1.19.9.1-win64/README.txt",
+		"/C/Users/diogotito/Downloads/tray2.py",
+		"/C/git/aoc21/day21/part1.rb",
+		"/C/git/aoc21/day21/part2.rb",
+		"/C/git/aoc21/day18/part1_ez.rb",
+		"/C/git/aoc21/day18/tutorialized.txt",
+		"/C/git/aoc21/day18/bintree_solution.rb",
+		"/C/git/aoc21/day21/input.txt",
+		"/C/git/aoc21/day18/part1_ez_print_debugging.rb",
+		"/C/git/aoc21/day18/\tfrom C",
+		"/C/git/aoc21/day18/=== Input line",
+		"/C/git/aoc21/tutorialized",
+		"/C/git/aoc21/day18/part1.rb",
+		"/C/Users/diogotito/AppData/Roaming/Sublime Text 3/Packages/Default/exec.py",
+		"/C/git/aoc21/aoc.sublime-project",
+		"/C/Users/diogotito/AppData/Local/Temp/7zOC6E7E6B2/ansi.py",
+		"/C/Users/diogotito/AppData/Local/Temp/7zOC6E7F802/buildx.py",
+		"/C/Users/diogotito/AppData/Local/Temp/7zOC6E62942/ansi.py",
+		"/D/todo/zimwiki/dev/pl/Ruby/from_Python.txt",
+		"/C/git/aoc21/day9/part2.py",
+		"/C/git/aoc21/day9/input_goucha.txt",
+		"/C/git/aoc21/day9/part1_ajuda_goucha.py",
+		"/C/git/aoc21/day9/part1.py",
+		"/C/git/aoc21/day15/input.txt",
+		"/D/very segredos/a minha palavra passe.txt",
+		"/C/git/aoc21/leaderboard/12-00_18.json",
+		"/C/git/aoc21/day11/input_example.txt",
+		"/C/git/aoc21/day11/part1.py",
+		"/C/git/aoc21/day9/part2_heapq.py",
+		"/C/git/aoc21/pyproject.toml",
+		"/C/git/aoc21/day9/part2_scratch.py",
+		"/C/Users/diogotito/Desktop/tantas_teses_de_mestrado/tese-mestrado-modest-texstudio/src/svg-inkscape/diagrama-cordal_svg-tex.pdf_tex",
+		"/C/git/aoc21/day9/part1_temp.py",
+		"/C/git/aoc21/day10/part2.py",
+		"/C/git/aoc21/day10/part1.py",
+		"/C/git/aoc21/day9/example_input.txt",
+		"/C/git/aoc21/day9/input.txt",
+		"/C/git/aoc21/day8/input.txt",
+		"/C/git/aoc21/day8/part2.py",
+		"/C/git/aoc21/day8/Goucha_Solution2.py",
+		"/C/git/aoc21/day2/input.txt",
+		"/C/git/aoc21/day8/part2_scratchpad.py",
+		"/C/git/aoc21/day8/part2_counter.py",
+		"/C/git/aoc21/day2/part2.cpp",
+		"/C/git/aoc21/day8/part1.py",
+		"/C/git/aoc21/day8/part2_WRONG.py",
+		"/C/git/aoc21/day8/bits.py",
+		"/C/git/aoc21/day8/part1.rb",
+		"/C/git/aoc21/day7/input.txt",
+		"/C/git/aoc21/day1/problem2.cpp",
+		"/C/git/aoc21/day7/part2_bruteforce_why.py",
+		"/C/git/aoc21/day7/part2_bruteforce_2.rb",
+		"/C/git/aoc21/day7/part2.py",
+		"/C/git/aoc21/day7/part2_bruteforce.py",
+		"/C/git/aoc21/day7/part2_bruteforce.rb",
+		"/C/git/aoc21/day6/input.txt",
+		"/C/git/aoc21/day4/part2.py",
+		"/C/git/aoc21/day4/part1.py",
+		"/C/git/aoc21/day3/part1_explained.py",
+		"/C/git/aoc21/day3/part2.py",
+		"/C/git/aoc21/day3/part1.py",
+		"/C/git/aoc21/day6/part2_PERFORMANCE_deque.py",
+		"/C/git/aoc21/day6/part2_PERFORMANCE.py",
+		"/C/git/aoc21/day6/part1.py",
+		"/C/git/aoc21/day5/input.txt",
+		"/C/git/aoc21/day5/part1_doctest.py",
+		"/C/git/aoc21/day5/part2_one_liner.py",
+		"/C/git/aoc21/day5/part2_WAY_TOO_MUCH_terse.py",
+		"/C/git/aoc21/day5/part2_SUPER_terse.py",
+		"/C/git/aoc21/day5/part2_terse.py",
+		"/C/git/aoc21/day5/part2_legible_terse.py",
+		"/C/git/aoc21/day5/part1_legible.py",
+		"/C/git/aoc21/day5/part2_legible.py",
+		"/C/Users/diogotito/AppData/Roaming/Sublime Text 3/Packages/Python/Default.sublime-keymap",
+		"/C/Users/diogotito/AppData/Roaming/Sublime Text 3/Packages/BuildX/buildx.py",
+		"/C/Users/diogotito/AppData/Roaming/Sublime Text 3/Packages/Python/Console Input Widget.sublime-settings",
+		"/C/Users/diogotito/AppData/Roaming/Sublime Text 3/Packages/Python/Regular Expressions (Python).sublime-syntax",
+		"/C/git/aoc21/day4/input.txt",
+		"/D/todo/zimwiki-export-2/dev/SOs/Debian.md",
+		"/C/Users/diogotito/source/repos/aseprite/build2/bin/data/widgets/new_layer.xml",
+		"/C/Users/diogotito/source/repos/aseprite/build2/CMakeCache.txt"
+	],
+	"find":
+	{
+		"height": 31.2
+	},
+	"find_in_files":
+	{
+		"height": 178.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"delete-line",
+			"Shift+Ctrl+",
+			"delete-line",
+			"beginning-of-line",
+			"select-be",
+			"Shift+Ctrl",
+			"Ctrl+Shift+K",
+			"shift",
+			"-line",
+			"^{{{(.|\\n)*?^}}}",
+			"^{{{.*^}}}",
+			"^{{{|^}}}",
+			"}}}",
+			"{{{",
+			"^'''",
+			"z: (?!0)",
+			"\\.\\.\\.",
+			"ellip",
+			"doc",
+			"meet",
+			"slid",
+			"(?<=\\n)(?!--)",
+			"\\n(?!--)",
+			"**",
+			"\\b(Scene|Node|Game ?Object|Prefab|Component|Resource|ScriptableObject)\\b",
+			"Scene",
+			"Collection",
+			"//",
+			"finalState",
+			"initialState",
+			"forever",
+			"result",
+			"Valid!",
+			"ljust",
+			"puts",
+			"            p [",
+			"[:x",
+			"operand",
+			"var",
+			"nstance_var",
+			"inp",
+			",",
+			"perform_mod",
+			"eql",
+			"_instance_variable",
+			"0_1",
+			"op",
+			"ins_",
+			"eql",
+			"variable",
+			"varName",
+			"putStrLn",
+			"initialStates",
+			"modelNumber",
+			"num",
+			"mn",
+			"initialStates",
+			"combinations",
+			"evalInstruction",
+			"sn",
+			"comma",
+			"start",
+			"right",
+			"left",
+			".index",
+			"*",
+			"puts",
+			"left_i",
+			"take_while",
+			"left",
+			"magintude",
+			"magnitude",
+			"# puts",
+			"puts ",
+			"p ",
+			"=== Input line",
+			"> res",
+			"18",
+			"p ",
+			"Before",
+			"'\\d+'",
+			"unless",
+			":>>",
+			":_",
+			":&",
+			":D",
+			":C",
+			":-",
+			":_",
+			"unless",
+			"right",
+			"close",
+			"open",
+			"close",
+			":open",
+			"DeterministicDie",
+			".",
+			"p1",
+			"advance",
+			" {",
+			"e!",
+			"advance",
+			"starting",
+			"starting position",
+			"initial_value",
+			"mod_100",
+			"@current_face",
+			"initialize",
+			"right",
+			"left",
+			"each_left_right_rec",
+			"each_leaf",
+			"parent",
+			"@parent",
+			"def initiali",
+			"SnailfishNumber",
+			"self",
+			" < SnailfishNumber",
+			"40",
+			"* ",
+			"].",
+			"assert_equal",
+			", ",
+			"inspect",
+			"def asse",
+			", ",
+			"+ [",
+			"try_split_once"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/diogotito/.gitconfig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								403,
+								405
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Config.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/tools/Defold/keymap.edn",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Clojure/Clojure.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Program Files (x86)/Steam/steamapps/common/TrackMania Nations Forever/Nadeo.ini",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rainmeter/Rainmeter.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/diogotito/AppData/LocalLow/Analgesic Productions LLC/Anodyne 2/.git/config",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								252,
+								252
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/Plain Text (INI).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/diogotito/AppData/Local/Temp/7zOC39C839B/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3512,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2469,
+								2469
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 860.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.2
+	},
+	"input":
+	{
+		"height": 58.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.languagetool":
+	{
+		"height": 137.0
+	},
+	"output.latextools":
+	{
+		"height": 150.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 133.0
+	},
+	"pinned_build_system": "",
+	"project": "aoc.sublime-project",
+	"replace":
+	{
+		"height": 59.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"day24/",
+				"day24\\part1.hs"
+			],
+			[
+				"day24",
+				"day24\\input.txt"
+			],
+			[
+				"day15inp",
+				"day15\\input.txt"
+			],
+			[
+				"8input",
+				"day8\\input.txt"
+			],
+			[
+				"day2/inpu",
+				"day2\\input.txt"
+			],
+			[
+				"cpp",
+				"day2\\part2.cpp"
+			],
+			[
+				"8/2",
+				"day8\\part2.py"
+			],
+			[
+				"3tra",
+				"Escrita em LaTeX\\conteudo\\3_trabalho.tex"
+			],
+			[
+				"main",
+				"Ficheiros do PEI/main.tex"
+			],
+			[
+				"i3conf",
+				"~/.config/i3/config"
+			],
+			[
+				"conky",
+				"~/asdf/conky/conky.conf"
+			],
+			[
+				"",
+				"Escrita em LaTeX/conteudo/3_trabalho.tex"
+			],
+			[
+				"3_",
+				"Escrita em LaTeX/pecas/3_comparativo_bibliotecas.tex"
+			],
+			[
+				"3_tra",
+				"Escrita em LaTeX/pecas/3_comparativo_bibliotecas.tex"
+			],
+			[
+				"i3",
+				"~/.config/i3/config"
+			],
+			[
+				"3",
+				"Escrita em LaTeX/conteudo/3_trabalho.tex"
+			],
+			[
+				"conteudo",
+				"Escrita em LaTeX/conteudo.tex"
+			],
+			[
+				"gitign",
+				"Configuração do projeto/.gitignore"
+			],
+			[
+				"conte",
+				"Escrita em LaTeX/conteudo.tex"
+			],
+			[
+				"a_",
+				"Escrita em LaTeX/conteudo/A_explicacao_tecnica.tex"
+			],
+			[
+				"conteu",
+				"Escrita em LaTeX/conteudo.tex"
+			],
+			[
+				"5",
+				"Escrita em LaTeX/conteudo/5_avaliacao_utilizadores.tex"
+			],
+			[
+				"2",
+				"Escrita em LaTeX/conteudo/2_trabalho_relacionado.tex"
+			],
+			[
+				"4",
+				"Escrita em LaTeX/conteudo/4_discussao.tex"
+			],
+			[
+				"2_",
+				"Escrita em LaTeX/conteudo/2_trabalho_relacionado.tex"
+			],
+			[
+				"4_",
+				"Escrita em LaTeX/conteudo/4_discussao.tex"
+			],
+			[
+				"project",
+				"Configuração do projeto/tese.sublime-project"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"latexmkrc",
+				".latexmkrc"
+			],
+			[
+				"runsh",
+				"src/run.sh"
+			],
+			[
+				"ptext",
+				"src/ptext.py"
+			],
+			[
+				"aseba3",
+				"reference/aseba3.py"
+			],
+			[
+				".aesl",
+				"hello_aseba.aesl"
+			],
+			[
+				"glsl",
+				"lol.glsl"
+			],
+			[
+				".gd",
+				"UI/UI.gd"
+			],
+			[
+				"peitex",
+				"PEI.tex"
+			],
+			[
+				"conteudo.",
+				"tex/conteudo.tex"
+			],
+			[
+				"conteudo.tex",
+				"tex/conteudo.tex"
+			],
+			[
+				"contetex",
+				"tex/conteudo.tex"
+			],
+			[
+				".tex",
+				"tex/conteudo.tex"
+			],
+			[
+				"tex",
+				"Preliminar/preliminar.tex"
+			],
+			[
+				"i3/config",
+				".config/i3/config"
+			],
+			[
+				"i3config",
+				"bin/edit_i3config"
+			],
+			[
+				"poc",
+				"poc.py"
+			],
+			[
+				".ino",
+				"~/Dropbox/FCUL/Mestrado/SCib/projeto2/scf-project2/part1/sensor/light_sensor_wireless/light_sensor_wireless.ino"
+			],
+			[
+				"makef",
+				"part1/controlador/Makefile"
+			],
+			[
+				".c",
+				"part1/controlador/server.c"
+			],
+			[
+				"reconex",
+				"restaurants/assets/node_modules/enhanced-resolve/lib/ConcordExtensionsPlugin.js"
+			],
+			[
+				"router",
+				"restaurants/lib/restaurants_web/router.ex"
+			],
+			[
+				"Fiber",
+				"quasar-core/src/main/java/co/paralleluniverse/fibers/Fiber.java"
+			],
+			[
+				"Array",
+				"quasar-core/src/main/java/co/paralleluniverse/strands/queues/ArrayQueue.java"
+			],
+			[
+				"boxqu",
+				"quasar-core/src/main/java/co/paralleluniverse/strands/queues/BoxQueue.java"
+			],
+			[
+				"queeprimi",
+				"quasar-core/src/main/java/co/paralleluniverse/strands/channels/QueuePrimitiveChannel.java"
+			],
+			[
+				"intchann",
+				"quasar-core/src/main/java/co/paralleluniverse/strands/channels/IntChannel.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
